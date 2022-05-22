@@ -1,5 +1,5 @@
 # hola-mundo
-Mi primer repositorio de prueba
+Estos son los cambios
 
 Autor: Laura Pontón
 Fecha 21 de mayo 2022
